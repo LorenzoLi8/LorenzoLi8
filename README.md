@@ -1,16 +1,14 @@
-## Hi there 👋
+## Início
+Olá! Me chamo Lorenzo, atualmente tenho 15 anos e estou iniciando na área de tecnologia, tenho forte interesse em **Desenvolvimento Back-End** e busco criar projetos conforme estudo para melhor compreensão. Busco minha primeira oportunidade na área.
 
-<!--
-**LorenzoLi8/LorenzoLi8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tecnologias Estudadas
+Atualmente, estou estudando:
+- Linguagem: Python 3 (Lógica de programação e fundamentos)
 
-Here are some ideas to get you started:
+## Ferramentas Utilizadas
+- Git
+- GitHub
+- PyCharm
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contato
+- E-mail: <lorenzolimasantos829@gmail.com>
